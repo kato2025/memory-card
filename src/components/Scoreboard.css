@@ -1,0 +1,20 @@
+/*Styles the Scoreboard component*/
+.scoreboard {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #e74d10;
+    color: #FFF;
+    padding: 10px;
+    border-bottom: 2px solid #ccc;
+  }
+/*Styles the Score component*/
+  .score {
+    font-size: 20px;
+    font-weight: bold;
+  }
+/*Styles the Scoreboard component title*/
+  .scoreTitle {
+    font-size: 20px;
+    font-weight: bold;
+  }
