@@ -14,8 +14,9 @@ body {
   flex-wrap: wrap;
   justify-content: center;
 }
-/*Style the header */
-header {
+/*Style the header and footer */
+header,
+footer {
   display: flex;
   justify-content: space-between;
   align-items: center;
